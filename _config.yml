@@ -120,6 +120,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shunan-feng/"
+    - label: "Deep Purple"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.deeppurple-ercsyg.eu/home"      
 
 # Site Footer
 footer:
