@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shunan Feng"
 description              : "Study the science for a changing world!"
-url                      : "https://shunan.feng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fsn1995.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/shunan.feng" # the subpath of your site, e.g. "/blog"
-repository               : "fsn1995/shunan.feng" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "fsn1995/fsn1995.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Tarfala.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Shunan Feng"
-  avatar           : # "/assets/images/photoFSN.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photoFSN.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I am a PhD student at Aarhus University. Interested in remote sensing of glaciology and hydrology."
   location         : "Denmark"
   email            : 
