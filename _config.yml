@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Shunan Feng"
-  avatar           : "/assets/images/photoFSN.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/photoFSN.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I am a PhD student at Aarhus University. Interested in remote sensing of glaciology and hydrology."
   location         : "Denmark"
   email            : 
