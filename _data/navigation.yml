@@ -1,12 +1,13 @@
 # main links
 main:
+  - title: "Intro"
+    url: https://fsn1995.github.io/shunan.feng/Intro
   - title: "Research"
     url: https://fsn1995.github.io/shunan.feng/Research
-  # - title: "Post"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Posts"
+    url: /year-archive/ 
   - title: "AboutMe"
     url: /about/
-  - title: "Posts"
-    url: /year-archive/
+
   # - title: "Contact"
   #   url: /sitemap/

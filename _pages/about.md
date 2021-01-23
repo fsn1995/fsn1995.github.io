@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "AboutMe"
 layout: single
 permalink: /about/
 ---

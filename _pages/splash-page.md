@@ -1,8 +1,8 @@
 ---
-title: "Splash Page"
+title: "Intro Page"
 layout: splash
-permalink: /splash-page/
-date: 2021-01-23T11:48:41-04:00
+permalink:  /Intro/
+# date: 2021-01-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,25 +11,31 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](Shuann Feng at Tarfala Research Station)"
-# excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-# intro: 
-#   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-# feature_row:
-#   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#     alt: "placeholder image 1"
-#     title: "Placeholder 1"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-#     alt: "placeholder image 2"
-#     title: "Placeholder 2"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
-#   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-#     title: "Placeholder 3"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+excerpt: "Study the science of a changing world."
+intro: 
+  - excerpt: 'Selected Projects'
+feature_row:
+  - image_path: https://fsn1995.github.io/picture/CTS.gif
+    alt: "master thesis"
+    title: "MSc Thesis"
+    excerpt: "Cold Surface Layer Dynamics of Large Glaciers, Northern Sweden 2009-2019"
+    url: "https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: https://fsn1995.github.io/picture/waterDateslider.png
+    # image_caption: "Image courtesy of [Unsplash](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)"
+    alt: "fun with GEE"
+    title: "fun with GEE"
+    excerpt: "Google Earth Engine practice and tools"
+    url: "https://fsn1995.github.io/Fun-with-Google-Earth-Engine"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: https://fsn1995.github.io/Fun-with-Python-for-Geodata/pic/airportconnection.png
+    title: "fun with python"
+    excerpt: "Personal practices in geodata analysis and interactive visualization with python."
+    url: "https://fsn1995.github.io/Fun-with-Python-for-Geodata/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
