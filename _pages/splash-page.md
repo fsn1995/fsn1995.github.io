@@ -10,7 +10,7 @@ header:
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](Shuann Feng at Tarfala Research Station)"
+  caption: "Photo credit: Shuann Feng at Tarfala Research Station 2018"
 excerpt: "Study the science of a changing world."
 intro: 
   - excerpt: 'Selected Projects'
