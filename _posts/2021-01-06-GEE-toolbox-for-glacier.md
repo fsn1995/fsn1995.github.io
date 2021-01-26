@@ -8,12 +8,15 @@ categories:
 tags:
   - google earth engine
 # toc: true
----
-This page is still under development.
-
 gallery:
   - url: https://fsn1995.users.earthengine.app/view/iseeglacier
     image_path: assets/gif/iSeeGlacier.gif
     alt: "iSeeGlacier"
     title: "iSeeGlacier"
+---
+
+
+This page is still under development.
+
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
