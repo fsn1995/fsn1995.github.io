@@ -6,7 +6,7 @@ last_modified_at: 2021-01-06
 
 # toc: true
 ---
-This page is still under development
+This page is still under development.
 
 gallery:
   - url: https://fsn1995.users.earthengine.app/view/iseeglacier
