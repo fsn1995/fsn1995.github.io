@@ -1,10 +1,13 @@
 ---
 title: "GEE toolbox for glacier"
 permalink: /coding/GEE-toolbox-for-glacier/
-excerpt: "A GEE toolbox for remote sensing of glaciers"
-last_modified_at: 2021-01-06
+# excerpt: "A GEE toolbox for remote sensing of glaciers"
+last_modified_at: 2021-01-27
 categories:
   - coding
+  - google earth engine
+  - deep purple
+  - glaciers
 tags:
   - google earth engine
 # toc: true
