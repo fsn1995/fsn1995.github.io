@@ -1,5 +1,8 @@
 ---
 title: "GitHub Page Archive"
+permalink: /Posts/GEE-toolbox-for-glacier/
+categories:
+  - coding
 tags:
   - google earth engine
   - CTS

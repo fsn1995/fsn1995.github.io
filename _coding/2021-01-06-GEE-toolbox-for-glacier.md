@@ -1,9 +1,12 @@
 ---
-title: "2021-01-06-GEE toolbox for glacier"
+title: "GEE toolbox for glacier"
 permalink: /coding/GEE-toolbox-for-glacier/
 excerpt: "A GEE toolbox for remote sensing of glaciers"
 last_modified_at: 2021-01-06
-
+categories:
+  - coding
+tags:
+  - google earth engine
 # toc: true
 ---
 This page is still under development.
@@ -13,3 +16,4 @@ gallery:
     image_path: assets/gif/iSeeGlacier.gif
     alt: "iSeeGlacier"
     title: "iSeeGlacier"
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
