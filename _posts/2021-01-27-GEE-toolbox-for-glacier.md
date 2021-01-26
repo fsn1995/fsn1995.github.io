@@ -19,7 +19,7 @@ gallery:
 ---
 
 
-This page is still under development.
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+{% include gallery caption="This page is still under development." %}
