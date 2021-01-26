@@ -300,15 +300,15 @@ defaults:
       layout: single
       author_profile: true
       comments: true
-  # _docs
+  # _coding
   - scope:
       path: ""
-      type: docs
+      type: coding
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+      author_profile: true
+      read_time: true
+      share: true
+      comments: true
+      related: true
+      show_date: true
