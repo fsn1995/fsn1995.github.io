@@ -11,15 +11,21 @@ categories:
 tags:
   - google earth engine
 # toc: true
-gallery:
+gallery1:
   - url: https://fsn1995.users.earthengine.app/view/iseeglacier
     image_path: assets/gif/iSeeGlacier.gif
     alt: "iSeeGlacier"
     title: "iSeeGlacier"
+gallery2:
+  - url: https://fsn1995.users.earthengine.app/view/greenlandongee
+    image_path: assets/gif/GreenlandOnGEE.gif
+    alt: "GreenlandOnGEE"
+    title: "GreenlandOnGEE"
 ---
 
 
 
 
 
-{% include gallery caption="This page is still under development." %}
+{% include gallery1 caption="A simple tool to browse and compare weekly Sentinel 2 imagery." %}
+{% include gallery2 caption="A simple tool to view Greenland related dataset (dem, MODIS albedo, 24h temperature). It's still under development" %}
