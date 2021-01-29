@@ -27,5 +27,5 @@ gallery2:
 
 
 
-{% include gallery1 caption="A simple tool to browse and compare weekly Sentinel 2 imagery." %}
-{% include gallery2 caption="A simple tool to view Greenland related dataset (dem, MODIS albedo, 24h temperature). It's still under development" %}
+{% include gallery id="gallery1" caption="A simple tool to browse and compare weekly Sentinel 2 imagery." %}
+{% include gallery id="gallery2" caption="A simple tool to view Greenland related dataset (dem, MODIS albedo, 24h temperature). It's still under development" %}
