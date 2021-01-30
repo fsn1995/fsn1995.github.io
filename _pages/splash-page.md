@@ -15,6 +15,13 @@ excerpt: "Study the science of a changing world."
 intro: 
   - excerpt: 'Selected Projects'
 feature_row:
+  - image_path: assets/gif/iSeeGlacier.gif
+    alt: "GEE toolbox for glacier"
+    title: "GEE toolbox for glacier"
+    excerpt: "GEE toolbox for glaciers"
+    url: "https://fsn1995.github.io/shunan.feng/coding/GEE-toolbox-for-glacier/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: https://fsn1995.github.io/picture/CTS.gif
     alt: "master thesis"
     title: "MSc Thesis"
@@ -30,20 +37,13 @@ feature_row:
     url: "https://fsn1995.github.io/Fun-with-Google-Earth-Engine"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: https://fsn1995.github.io/Fun-with-Python-for-Geodata/pic/airportconnection.png
     title: "fun with python"
     excerpt: "Personal practices in geodata analysis and interactive visualization with python."
     url: "https://fsn1995.github.io/Fun-with-Python-for-Geodata/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-# feature_row2:
-#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#     title: "Placeholder Image Left Aligned"
-#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
 # feature_row3:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
@@ -66,7 +66,7 @@ feature_row:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
