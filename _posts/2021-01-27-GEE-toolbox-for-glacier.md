@@ -26,10 +26,10 @@ gallery3:
   - image_path: assets/gif/albedoMODISgreenland.gif
     alt: "GreenlandAlbedoMODIS"
     title: "GreenlandAlbedoMODIS"
-  # - url: https://fsn1995.users.earthengine.app/view/greenlandongee
-  - image_path: assets/gif/seaColorSMI20102020.gif
-    alt: "Ocean Color SMI Western Greenland Coast"
-    title: "Ocean Color SMI Western Greenland Coast"
+  # # - url: https://fsn1995.users.earthengine.app/view/greenlandongee
+  # - image_path: assets/gif/seaColorSMI20102020.gif
+  #   alt: "Ocean Color SMI Western Greenland Coast"
+  #   title: "Ocean Color SMI Western Greenland Coast"
 ---
 
 
@@ -38,6 +38,6 @@ gallery3:
 ## 2 Greenland on GEE
 {% include gallery id="gallery2" caption="A simple tool to view Greenland related dataset (dem, MODIS albedo, 24h temperature). It's still under development" %}
 ## 3. iMakeGif
-{% include gallery id="gallery3" caption="3.1 Animation of monthly remote sensing data on Greenland." %}
+{% include gallery id="gallery3" caption="3.1 Animation of monthly remote sensing data on Greenland with gee python api and [geemap](https://geemap.org/)." %}
 
 This page is still under construction. Link to the source code will be available soon. Thanks a lot all the contributors of GEE.
