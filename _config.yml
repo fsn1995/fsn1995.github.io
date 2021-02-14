@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shunan Feng's site"
+title                    : "Glacier Hub"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shunan Feng"
 description              : "Study the science for a changing world!"
-url                      : "https://fsn1995.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/shunan.feng" # the subpath of your site, e.g. "/blog"
+url                      : "https://www.glacierhub.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "/shunan.feng" # the subpath of your site, e.g. "/blog"
 repository               : "fsn1995/shunan.feng" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Tarfala.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
