@@ -40,4 +40,6 @@ gallery3:
 ## 3. iMakeGif
 {% include gallery id="gallery3" caption="3.1 Animation of monthly remote sensing data on Greenland with gee python api and [geemap](https://geemap.org/)." %}
 
+<iframe src="https://fsn1995.users.earthengine.app/view/iknowalbedo" height="600px" width="100%" style="border:none;"></iframe>
+
 This page is still under construction. Link to the source code will be available soon. Thanks a lot all the contributors of GEE.
