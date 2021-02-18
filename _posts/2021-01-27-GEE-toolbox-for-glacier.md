@@ -42,4 +42,7 @@ gallery3:
 
 <iframe src="https://fsn1995.users.earthengine.app/view/iknowalbedo" height="600px" width="100%" style="border:none;"></iframe>
 
+<div id="map" style="display:block; visibility:hidden"> 
+  <iframe src="https://fsn1995.users.earthengine.app/view/iknowalbedo" height="500px" width=" 100%" ></iframe>
+</div>
 This page is still under construction. Link to the source code will be available soon. Thanks a lot all the contributors of GEE.
