@@ -1,7 +1,7 @@
 ---
 title: "Intro Page"
 layout: splash
-permalink:  /Intro/
+permalink: /
 # date: 2021-01-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -19,17 +19,17 @@ feature_row:
     alt: "GEE toolbox for glacier"
     title: "GEE toolbox for glacier"
     excerpt: "GEE toolbox for glaciers"
-    url: "https://fsn1995.github.io/shunan.feng/coding/GEE-toolbox-for-glacier/"
+    url: "https://fsn1995.github.io/posts/GEE-toolbox-for-glacier/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: https://fsn1995.github.io/picture/CTS.gif
+  - image_path: https://www.glacier-hub.com/fsn1995.github.io-OLD/picture/CTS.gif
     alt: "master thesis"
     title: "MSc Thesis"
     excerpt: "Cold Surface Layer Dynamics of Large Glaciers, Northern Sweden 2009-2019"
     url: "https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: https://fsn1995.github.io/picture/waterDateslider.png
+  - image_path: https://www.glacier-hub.com/fsn1995.github.io-OLD/picture/waterDateslider.png
     # image_caption: "Image courtesy of [Unsplash](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)"
     alt: "fun with GEE"
     title: "fun with GEE"
