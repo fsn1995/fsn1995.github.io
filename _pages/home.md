@@ -1,5 +1,5 @@
 ---
-title: "Intro Page"
+# title: "Intro Page"
 layout: splash
 permalink: /
 # date: 2021-01-23T11:48:41-04:00
