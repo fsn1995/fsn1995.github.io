@@ -1,6 +1,6 @@
 ---
 title: "GitHub Page Archive"
-permalink: /posts/GEE-toolbox-for-glacier/
+permalink: /posts/2021-01-22-GithubPageArchive/
 last_modified_at: 2021-01-06
 categories:
   - coding
