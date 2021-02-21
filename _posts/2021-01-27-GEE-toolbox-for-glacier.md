@@ -3,6 +3,7 @@ title: "GEE toolbox for glacier"
 permalink: /posts/GEE-toolbox-for-glacier/
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
 last_modified_at: 2021-01-30
+classes: wide
 categories:
   - coding
   - google earth engine
@@ -49,3 +50,5 @@ gallery3:
 </details>
 
 This page is still under construction. Link to the source code will be available soon. Thanks a lot all the contributors of GEE.
+
+<!-- reference: collapsible markdownhttps://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab -->
