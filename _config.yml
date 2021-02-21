@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shunan.feng@envs.au.dk"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -121,14 +121,14 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shunan-feng/"
     - label: "Deep Purple"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-microscope"
       url: "https://www.deeppurple-ercsyg.eu/home"      
 
 # Site Footer
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
