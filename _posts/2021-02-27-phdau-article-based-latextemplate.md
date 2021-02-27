@@ -12,7 +12,7 @@ A personal LaTeX for article based PhD Thesis at Aarhus University. Just a draft
 I am improving it very slowly.
 
 
-<iframe src="fsn1995/phdau-article-based/au_theis_template.pdf" height="800px" width="100%" style="border:none;"></iframe>
+<iframe src="https://nbviewer.jupyter.org/github/fsn1995/phdau-article-based/blob/master/au_theis_template.pdf" height="800px" width="100%" style="border:none;"></iframe>
 
 
 <p>This latex template is open source. <a href="https://github.com/fsn1995/phdau-article-based">Help me improve it!</a></p>
