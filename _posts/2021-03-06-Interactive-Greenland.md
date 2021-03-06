@@ -18,7 +18,7 @@ toc: true
 Some interactive visualization of Greenland related dataset.
 # PROMICE
 ## Promice AWS
-<iframe src="assets/interactive figure/promice.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="assets/interactive_figure/promice.html" height="600px" width="100%" style="border:none;"></iframe>
 source: https://promice.org/PromiceDataPortal/#Automaticweatherstations
 
 
