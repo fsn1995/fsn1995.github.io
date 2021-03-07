@@ -19,11 +19,10 @@ Some interactive visualization of Greenland related dataset.
 # PROMICE
 ## Promice AWS
 
-<iframe id="promiceAWS" src="/assets/interactive_figure/promice.html" seamless="seamless" height="500x" width="100%" style="border:none;"></iframe>
+<iframe id="promiceAWS" src="/assets/interactive_figure/promice.html" seamless="seamless" height="600x" width="100%" style="border:none;"></iframe>
 
 source: https://promice.org/PromiceDataPortal/#Automaticweatherstations
 
 
 And to be continued. 
 
-<!-- reference: collapsible markdownhttps://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab -->
