@@ -3,7 +3,7 @@ title: "GIS at Deep Purple"
 permalink: /posts/2021-03-19-GIS-at-Deep-Purple/
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
 last_modified_at: 2021-03-19
-classes: wide
+# classes: wide
 categories:
   - coding
   - google earth engine
