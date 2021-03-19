@@ -24,15 +24,15 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 
 ## scatter plot with open street layer as basemap
 
-<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceOpenStreetMap.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="http://www.glacier-hub.com/GIS-at-deep-purple/output/01promiceOpenStreetMap.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## scatter plot with satellite data as basemap
 
-<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceSatellite.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="http://www.glacier-hub.com/GIS-at-deep-purple/output/01promiceSatellite.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## change map projection
 
-<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceChangeProjection.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="http://www.glacier-hub.com/GIS-at-deep-purple/output/01promiceChangeProjection.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## cartopy projection
 
@@ -45,11 +45,11 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 
 ## Arctic DEM
 
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/02%20geemapGreenland.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="http://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapGreenland.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## Arctic DEM Contour
 
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/02%20geemapContour.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="http://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapContour.html" height="600px" width="100%" style="border:none;"></iframe>
 
 This page is still under construction. Welcome to contribute on github.
 
