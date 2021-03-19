@@ -43,7 +43,13 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsn1995/GIS-at-deep-purple/blob/main/02%20gee%20map%20greenland.ipynb)
 
+## Arctic DEM
+
 <iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/02%20geemapGreenland.html" height="600px" width="100%" style="border:none;"></iframe>
+
+## Arctic DEM Contour
+
+<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/02%20geemapContour.html" height="600px" width="100%" style="border:none;"></iframe>
 
 This page is still under construction. Welcome to contribute on github.
 
