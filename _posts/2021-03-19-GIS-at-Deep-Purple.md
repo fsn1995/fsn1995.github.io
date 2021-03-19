@@ -24,19 +24,15 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 
 ## scatter plot with open street layer as basemap
 
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceOpenStreetMap.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceOpenStreetMap.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## scatter plot with satellite data as basemap
 
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceSatellite.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceSatellite.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## change map projection
 
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceChangeProjection.html" height="600px" width="100%" style="border:none;"></iframe>
-
-## change map projection
-
-<iframe src="https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceChangeProjection.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://htmlpreview.github.io/?https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01promiceChangeProjection.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## cartopy projection
 
