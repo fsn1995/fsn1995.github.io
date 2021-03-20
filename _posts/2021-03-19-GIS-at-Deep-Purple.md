@@ -2,7 +2,7 @@
 title: "GIS at Deep Purple"
 permalink: /posts/2021-03-19-GIS-at-Deep-Purple/
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
-last_modified_at: 2021-03-19
+last_modified_at: 2021-03-20
 # classes: wide
 categories:
   - coding
@@ -21,6 +21,7 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 # 01 Map Greenland
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsn1995/GIS-at-deep-purple/blob/main/01%20map%20greenland.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/01%20map%20greenland.ipynb)
 
 ## scatter plot with open street layer as basemap
 
@@ -42,6 +43,7 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 # 02 Map Greenland on GEE
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsn1995/GIS-at-deep-purple/blob/main/02%20gee%20map%20greenland.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/02%20gee%20map%20greenland.ipynb)
 
 ## Arctic DEM
 
