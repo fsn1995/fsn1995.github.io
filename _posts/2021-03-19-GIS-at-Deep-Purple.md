@@ -47,6 +47,10 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 
 <iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapGreenland.html" height="600px" width="100%" style="border:none;"></iframe>
 
+## Arctic DEM Terrain palette
+
+<iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapTerrain.html" height="600px" width="100%" style="border:none;"></iframe>
+
 ## Arctic DEM Contour
 
 <iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapContour.html" height="600px" width="100%" style="border:none;"></iframe>
