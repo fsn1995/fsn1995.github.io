@@ -46,11 +46,7 @@ Make some maps in a simple way. A practical guide for Deep Purple project.
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fsn1995/GIS-at-deep-purple/blob/main/02%20gee%20map%20greenland.ipynb)
 
 The map tile generated on GEE will expire after 24h, therefore only screenshot is provided below. However a [webapp deployed on heroku](https://deep-purple-at-gee.herokuapp.com/) is also availble.
-<!-- <details>
-  <summary>Click to expand!</summary>
-  
-<iframe src="https://deep-purple-at-gee.herokuapp.com/" height="600px" width="100%" style="border:none;"></iframe>
-</details> -->
+
 
 ## Arctic DEM
 
