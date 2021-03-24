@@ -51,17 +51,15 @@ The map tile generated on GEE will expire after 24h, therefore only screenshot i
 ## Arctic DEM
 
 <img src="https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/02%20Arctic%20DEM.png?raw=true" alt="arctic dem" width="300" height="300"/>
-<!-- <iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapGreenland.html" height="600px" width="100%" style="border:none;"></iframe> -->
+
+<iframe src="https://deep-purple-at-gee.herokuapp.com/voila/render/02GreenlandContourline_a.ipynb" height="600px" width="100%" style="border:none;"></iframe>
+
 
 ## Arctic DEM Terrain palette
 
-<img src="https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/02%20Arctic%20DEM%20Terrain%20palette.png?raw=true" alt="arctic dem terrain palette" width="300" height="300"/>
-<!-- <iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapTerrain.html" height="600px" width="100%" style="border:none;"></iframe> -->
-
-## Arctic DEM Contour
-
 <img src="https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/02%20Arctic%20DEM%20Contour.gif?raw=true" alt="arctic dem contour" width="300" height="300"/>
-<!-- <iframe src="https://www.glacier-hub.com/GIS-at-deep-purple/output/02%20geemapContour.html" height="600px" width="100%" style="border:none;"></iframe> -->
+
+<iframe src="https://deep-purple-at-gee.herokuapp.com/voila/render/02GreenlandArcticDEM_b.ipynb" height="600px" width="100%" style="border:none;"></iframe>
 
 This page is still under construction. Welcome to contribute on github.
 
