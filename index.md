@@ -15,6 +15,13 @@ excerpt: "Study the science of a changing world."
 intro: 
   - excerpt: 'Selected Projects'
 feature_row:
+  - image_path: https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/02%20Arctic%20DEM%20Contour.gif?raw=true
+    alt: "GIS at Deep Purple"
+    title: "GIS at Deep Purple"
+    excerpt: "GIS at Deep Purple"
+    url: "https://www.glacier-hub.com/posts/2021-03-19-GIS-at-Deep-Purple/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/gif/iSeeGlacier.gif
     alt: "GEE toolbox for glacier"
     title: "GEE toolbox for glacier"
@@ -29,6 +36,8 @@ feature_row:
     url: "https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren"
     btn_label: "Read More"
     btn_class: "btn--primary"
+ 
+feature_row2:
   - image_path: https://www.glacier-hub.com/fsn1995.github.io-OLD/picture/waterDateslider.png
     # image_caption: "Image courtesy of [Unsplash](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)"
     alt: "fun with GEE"
@@ -37,7 +46,6 @@ feature_row:
     url: "https://fsn1995.github.io/Fun-with-Google-Earth-Engine"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: https://fsn1995.github.io/Fun-with-Python-for-Geodata/pic/airportconnection.png
     title: "fun with python"
     excerpt: "Personal practices in geodata analysis and interactive visualization with python."
