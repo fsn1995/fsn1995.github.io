@@ -2,7 +2,7 @@
 title: "GEE toolbox for glacier"
 permalink: /posts/GEE-toolbox-for-glacier/
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
-last_modified_at: 2021-01-30
+last_modified_at: 2021-04-11
 classes: wide
 categories:
   - coding
@@ -36,8 +36,18 @@ gallery3:
 
 ## 1 iSeeGlacier
 {% include gallery id="gallery1" caption="A simple tool to browse and compare weekly Sentinel 2 imagery." %}
+<details>
+  <summary>Click to expand webapp!</summary>
+  
+<iframe src="https://fsn1995.users.earthengine.app/view/iseeglacier" height="600px" width="100%" style="border:none;"></iframe>
+</details>
 ## 2 Greenland on GEE
 {% include gallery id="gallery2" caption="A simple tool to view Greenland related dataset (dem, MODIS albedo, 24h temperature). It's still under development" %}
+<details>
+  <summary>Click to expand webapp!</summary>
+  
+<iframe src="https://fsn1995.users.earthengine.app/view/greenlandongee" height="600px" width="100%" style="border:none;"></iframe>
+</details>
 ## 3. iMakeGif
 {% include gallery id="gallery3" caption="3.1 Animation of monthly remote sensing data on Greenland with gee python api and [geemap](https://geemap.org/)." %}
 
