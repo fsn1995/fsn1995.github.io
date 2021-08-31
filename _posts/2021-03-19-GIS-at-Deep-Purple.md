@@ -13,6 +13,8 @@ tags:
   - google earth engine
   - GIS
 toc: true
+header:
+  teaser: "https://github.com/fsn1995/GIS-at-deep-purple/blob/main/output/01%20cartopyTerrain.png?raw=true"
 ---
 Make some maps in a simple way. A practical guide for Deep Purple project. 
 
