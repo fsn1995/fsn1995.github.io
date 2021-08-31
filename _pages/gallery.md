@@ -3,8 +3,8 @@ title: "Gallery"
 layout: single
 classes: wide
 permalink: /gallery/
-header:
-  teaser: "\assets\images\20210719_235228693_iOS.jpg"
+# header:
+#   teaser: "\assets\images\20210719_235228693_iOS.jpg"
 ---
 
 ## Fieldwork 2021
