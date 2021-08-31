@@ -3,7 +3,7 @@ title: "Gallery"
 layout: single
 # classes: wide
 permalink: /gallery/
-toc: true
+# toc: true
 # header:
 #   teaser: "\assets\images\20210719_235228693_iOS.jpg"
 ---
