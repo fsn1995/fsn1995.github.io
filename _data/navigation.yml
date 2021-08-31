@@ -9,6 +9,8 @@ main:
   #   url: https://fsn1995.github.io/shunan.feng/Research
   - title: "Posts"
     url: /year-archive/ 
+  - title: "Gallery"
+    url: /gallery/
   - title: "AboutMe"
     url: /about/
 
