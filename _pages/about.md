@@ -15,8 +15,6 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
 <img src="https://github-readme-stats.vercel.app/api?username=fsn1995&show_icons=true&hide=issues" />
 
 <p align="left">
-  <!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt="Matlab" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/> -->
   <img src="/assets/images/icon/file_type_matlab_icon_130398.png" alt="Matlab" width="40" height="40"/>
   <img src="/assets/images/icon/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -37,7 +35,7 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
   <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <!-- <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" alt ="UU" width="65" style="vertical-align: 90%"/>
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQGB1wGC5Pj1mQ/company-logo_200_200/0/1519866978104?e=1619654400&v=beta&t=MmM0ReEDRbUTPMY6ozGjHkbjWAObeLRbHIAU7ChdhNw" alt ="CCNU" width="70" style="vertical-align: 80%"/>
+  <img src="assets\images\icon\1519866978104.png" alt ="CCNU" width="70" style="vertical-align: 80%"/>
 </p>
 
 <details>
