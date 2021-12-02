@@ -21,11 +21,9 @@ I am improving it very slowly.
 <img src="https://cdn.icon-icons.com/icons2/692/PNG/512/seo-social-web-network-internet_12_icon-icons.com_61498.png" width="20"/>
 </a></p>
 
-
 Or:
-```git
-git clone https://github.com/fsn1995/phdau-article-based.git
-```
+<code class="codeblock">git clone https://github.com/fsn1995/phdau-article-based.git</code>
+
 Then you could open it either locally or online in overleaf.
 Feel free to ask questions if any!
 
