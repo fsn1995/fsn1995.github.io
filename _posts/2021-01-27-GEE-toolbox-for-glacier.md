@@ -11,7 +11,10 @@ categories:
   - glaciers
 tags:
   - google earth engine
-# toc: true
+https://github.com/fsn1995/phdau-article-based/blob/master/au%20logo/AU_LOGO/DK/blue/aulogo_dk_var1_blaa.png?raw=true
+header:
+  teaser: assets/gif/iSeeGlacier.gif
+
 gallery1:
   - url: https://fsn1995.users.earthengine.app/view/iseeglacier
     image_path: assets/gif/iSeeGlacier.gif
