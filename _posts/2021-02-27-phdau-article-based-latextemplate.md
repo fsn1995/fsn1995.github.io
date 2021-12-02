@@ -20,6 +20,7 @@ I am improving it very slowly.
 <p>You can download the template at <a href="https://github.com/fsn1995/phdau-article-based/archive/refs/heads/master.zip">GitHub
 <img src="https://cdn.icon-icons.com/icons2/692/PNG/512/seo-social-web-network-internet_12_icon-icons.com_61498.png" width="20"/>
 </a></p>
+
 Then you could open it either locally or online in overleaf.
 Feel free to ask questions if any!
 
