@@ -18,12 +18,12 @@ I am improving it very slowly.
 
 
 <p>You can download the template at <a href="https://github.com/fsn1995/phdau-article-based/archive/refs/heads/master.zip">GitHub
-<img src="https://cdn.icon-icons.com/icons2/692/PNG/512/seo-social-web-network-internet_12_icon-icons.com_61498.png" width=20/>
+<img src="https://cdn.icon-icons.com/icons2/692/PNG/512/seo-social-web-network-internet_12_icon-icons.com_61498.png" width="20"/>
 </a></p>
 Then you could open it either locally or online in overleaf.
 Feel free to ask questions if any!
 
 <p>This latex template is open source. <a href="https://github.com/fsn1995/phdau-article-based/archive/refs/heads/master.zip">Help me improve it at
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=20/>
-<img src=https://cdn.icon-icons.com/icons2/2551/PNG/512/external_link_icon_152846.png width=10/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30"/>
+<img src="https://cdn.icon-icons.com/icons2/2551/PNG/512/external_link_icon_152846.png" width="10"/>
 </a></p>
