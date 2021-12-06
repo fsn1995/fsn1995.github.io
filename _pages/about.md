@@ -21,7 +21,7 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
   <!-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width="40" height="40"/> -->
   <img src="/assets/images/icon/file_type_r_icon_130212.png" alt="R" width="40" height="40"/>
   <img src="/assets/images/icon/arcgis-logo.png" alt="ArcGIS" width="40" height="40"/>
-  <img src="https://www.harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png" alt="ENVI" width="100" height="30"/>
+  <img src="/assets/images/icon/ENVI_Icon_ColorLogo.png" alt="ENVI" width="100" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTex" width="80" height="30"/>
 </p>
 
@@ -35,7 +35,7 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
   <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <!-- <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" alt ="UU" width="65" style="vertical-align: 90%"/>
-  <img src="assets\images\icon\1519866978104.png" alt ="CCNU" width="70" style="vertical-align: 80%"/>
+  <img src="/assets/images/icon/1519866978104.png" alt ="CCNU" width="70" style="vertical-align: 80%"/>
 </p>
 
 <details>
