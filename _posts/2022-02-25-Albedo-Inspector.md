@@ -3,7 +3,7 @@ title: "Albedo Inspector"
 permalink: /posts/AlbedoInspector
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
 last_modified_at: 2022-02-25
-# classes: wide
+classes: wide
 categories:
   - coding
   - google earth engine
