@@ -53,7 +53,6 @@ If the size of current map view window is less than 32MB and grid dimension is s
 The limitation is due to the [limitation of Google Earth Engine](https://developers.google.com/earth-engine/apidocs/ee-image-getdownloadurl).
 
 <img src="https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/geeappdownload.png?raw=true" alt="export time series" height="600px" width="100%"/>
-<!-- <img src="https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/geeappdownload.png?raw=true" height="600px" width="100%" style="border:none;"></iframe>
 
 
 Hope this is helpful to you. Questions and suggesstions are welcomed! 
