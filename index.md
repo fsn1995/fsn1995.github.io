@@ -29,6 +29,15 @@ feature_row:
     url: "https://fsn1995.github.io/posts/GEE-toolbox-for-glacier/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/albedoinspectorMap.gif?raw=true
+    alt: "albedo inspector"
+    title: "albedo inspector"
+    excerpt: "albedo inspector"
+    url: "https://www.glacier-hub.com/posts/AlbedoInspector"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
   - image_path: https://www.glacier-hub.com/fsn1995.github.io-OLD/picture/CTS.gif
     alt: "master thesis"
     title: "MSc Thesis"
@@ -36,8 +45,6 @@ feature_row:
     url: "https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren"
     btn_label: "Read More"
     btn_class: "btn--primary"
- 
-feature_row2:
   - image_path: https://www.glacier-hub.com/fsn1995.github.io-OLD/picture/waterDateslider.png
     # image_caption: "Image courtesy of [Unsplash](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)"
     alt: "fun with GEE"
@@ -76,6 +83,6 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="center" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+<!-- {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %} -->
