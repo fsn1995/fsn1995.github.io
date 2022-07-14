@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello this is Shunan（楠树）.  Welcome to my personal site but note it's still under development. Hope to learn more about the science of a changing world with you!
 
-I am interested in remote sensing, glaciology and hydrology. Now a PhD student at Aarhus University with [deep purple](https://www.deeppurple-ercsyg.eu/home) project. 
+I am interested in remote sensing, glaciology and hydrology. Now a PhD student at Aarhus University and part of the [deep purple](https://www.deeppurple-ercsyg.eu/home) project. 
 
 Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/) 
 
