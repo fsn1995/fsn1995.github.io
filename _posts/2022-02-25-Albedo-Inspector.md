@@ -31,12 +31,12 @@ A week number is also required to compute the image mosaic.
 This may take a while if the week number is too large. 
 A week number of 1 is a good starting point for albedo in July 2014. 
 
-<img src="https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/albedoinspectorLoad.gif?raw=true" alt="load map" height="600px" width="100%"/>
+<img src="assets\gif\albedoinspectorLoad.gif" alt="load map" height="600px" width="100%"/>
 
 ## 2. Compare Map
 By draging the box under the layers, user may compare the albedo map and the RGB true color composite. 
 
-<img src="https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/albedoinspectorMap.gif?raw=true" alt="compare map" height="600px" width="100%"/>
+<img src="assets\gif\albedoinspectorMap.gif" alt="compare map" height="600px" width="100%"/>
 
 Large areas in the central Greenland Ice Sheet is blank. This is mainly due to cloud/cloud shaodows mask, L7 ETM+ Scan Line error, data saturation and computational artifacts in the surface reflectance data.
 
@@ -45,7 +45,7 @@ Large areas in the central Greenland Ice Sheet is blank. This is mainly due to c
 The time series of albedo is displayed as an interactive chart. 
 It can be exported as csv as shown in the gif:
 
-<img src="https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/albedoinspectorData.gif?raw=true" alt="export time series" height="600px" width="100%"/>
+<img src="assets\gif\albedoinspectorData.gif" alt="export time series" height="600px" width="100%"/>
 
 ### Export Albedo Map
 We also support exporting a clip of albedo. 
