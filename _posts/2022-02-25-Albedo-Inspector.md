@@ -16,7 +16,7 @@ tags:
 header:
   teaser: "https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/geeapp.png?raw=true"
 ---
-[![DOI](https://zenodo.org/badge/432758968.svg)](https://zenodo.org/badge/latestdoi/432758968)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6257894.svg)](https://doi.org/10.5281/zenodo.6257894)
 
 # Albedo Inspector
 This is a tutorial for the web application - [Albedo Inspector](https://fsn1995.users.earthengine.app/view/albedoinspector). 
@@ -30,6 +30,7 @@ The map of both RGB true color composite and albedo can be loaded by selecting t
 A week number is also required to compute the image mosaic. 
 This may take a while if the week number is too large. 
 A week number of 1 is a good starting point for albedo in July 2014. 
+Note that the image is restricted to the current map window. 
 
 <img src="assets\gif\albedoinspectorLoad.gif" alt="load map" height="600px" width="100%"/>
 

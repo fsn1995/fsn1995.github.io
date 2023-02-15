@@ -29,7 +29,7 @@ feature_row:
     url: "https://fsn1995.github.io/posts/GEE-toolbox-for-glacier/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/albedoinspectorMap.gif?raw=true
+  - image_path: https://github.com/fsn1995/fsn1995.github.io/blob/master/assets/gif/albedoinspectorMap.gif?raw=true
     alt: "albedo inspector"
     title: "albedo inspector"
     excerpt: "albedo inspector"
