@@ -2,7 +2,7 @@
 title: "Albedo Inspector"
 permalink: /posts/AlbedoInspector
 # excerpt: "A GEE toolbox for remote sensing of glaciers"
-last_modified_at: 2022-02-25
+last_modified_at: 2023-03-15
 classes: wide
 categories:
   - coding
@@ -17,6 +17,10 @@ header:
   teaser: "https://github.com/fsn1995/Remote-Sensing-of-Albedo/blob/main/media/geeapp.png?raw=true"
 ---
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6257894.svg)](https://doi.org/10.5281/zenodo.6257894)
+
+References:
+- <div class="csl-entry">Feng, S., Cook, J. M., Anesio, A. M., Benning, L. G., &#38; Tranter, M. (2023). Long time series (1984–2020) of albedo variations on the Greenland ice sheet from harmonized Landsat and Sentinel 2 imagery. <i>Journal of Glaciology</i>, 1–16. https://doi.org/10.1017/jog.2023.11</div>
+- <div class="csl-entry">Feng, S., &#38; Cook, J. M. (2023). <i>Remote-Sensing-of-Albedo: Development of harmonized satellite albedo</i>. Zenodo. https://doi.org/10.5281/zenodo.7642574</div>
 
 # Albedo Inspector
 This is a tutorial for the web application - [Albedo Inspector](https://fsn1995.users.earthengine.app/view/albedoinspector). 
