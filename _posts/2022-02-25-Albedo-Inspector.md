@@ -25,7 +25,6 @@ References:
 # Albedo Inspector
 This is a tutorial for the web application - [Albedo Inspector](https://fsn1995.users.earthengine.app/view/albedoinspector). 
 It allows users to extract time series of albedo and load the albedo maps freely in browser.
-Please note that the manuscript is currently under review.
 
 ## 1. Load Data
 The time series of albedo can be extracted at any point of interest (poi) by clicking on the map. 
