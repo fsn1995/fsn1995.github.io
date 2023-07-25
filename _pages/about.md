@@ -23,6 +23,7 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
   <img src="/assets/images/icon/arcgis-logo.png" alt="ArcGIS" width="40" height="40"/>
   <img src="/assets/images/icon/ENVI_Icon_ColorLogo.png" alt="ENVI" width="100" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTex" width="80" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" alt="JuliaLang" width="80" height="50"/>
 </p>
 
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=hMKGuKwAAAAJ&hl=en)
