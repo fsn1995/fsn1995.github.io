@@ -34,10 +34,10 @@ Githup Page: [https://www.glacier-hub.com/](https://www.glacier-hub.com/)
 
 
 <p align="left">
-  <img src="https://medarbejdere.au.dk/fileadmin/_processed_/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
+  <img src="https://github.com/fsn1995/fsn1995.github.io/raw/master/assets/images/icon/csm_au_segl_cms287_4b4ef98221.png" alt ="AU" width="70" style="vertical-align: 80%"/>
   <!-- <img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_svg-uu-logo.svg" alt ="UU" width="100"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" alt ="UU" width="65" style="vertical-align: 90%"/>
-  <img src="/assets/images/icon/1519866978104.png" alt ="CCNU" width="70" style="vertical-align: 80%"/>
+  <img src="https://github.com/fsn1995/fsn1995.github.io/raw/master/assets/images/icon/1519866978104.png" alt ="CCNU" width="70" style="vertical-align: 80%"/>
 </p>
 
 <details>
