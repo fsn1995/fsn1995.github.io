@@ -20,7 +20,7 @@ title                    : "Shunan Feng"
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Shunan Feng"
-description              : "Study the science for a changing world! Meet Shunan Feng at glacier-hub."
+description              : "Studying the science for a changing world! Meet Shunan Feng at glacier-hub."
 url                      : "https://www.glacier-hub.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "/shunan.feng" # the subpath of your site, e.g. "/blog"
 repository               : "fsn1995/fsn1995.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Shunan Feng"
   avatar           : "/assets/images/silverspoon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a PhD student at Aarhus University. Interested in remote sensing of glaciology and hydrology."
+  bio              : "Hi, I am a researcher interested in remote sensing of glaciology, hydrology, and Arctic environments."
   location         : "Denmark"
   email            : 
   links:
